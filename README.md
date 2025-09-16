@@ -59,7 +59,6 @@ Cached summaries are stored using Streamlit’s cache mechanism for faster repea
 Feel free to ⭐ the repository if you found it useful!
 Open to contributions and suggestions.
 
-🌈 Happy Summarizing! 🚀
 
 📚 Project Structure
 ```bash
@@ -70,14 +69,6 @@ article-summarizer/
 ├── README.md            # Project description
 └── .gitignore           # To ignore __pycache__, etc.
 
-```bash
-
-👉 **Optional Tip:**  
-Add a `.gitignore` file to avoid uploading unwanted files:
-```gitignore
-__pycache__/
-*.pyc
-.env
 
 
 
