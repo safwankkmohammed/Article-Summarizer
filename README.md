@@ -61,15 +61,15 @@ article-summarizer/
 ├── README.md            # Project description
 └── .gitignore           # To ignore __pycache__, etc.
 
-⚡ Notes
+###⚡ Notes
 Summary speed depends on the article length and your machine’s CPU performance.
 Cached summaries are stored using Streamlit’s cache mechanism for faster repeat use.
 
-📢 Thank You!
+###📢 Thank You!
 Feel free to ⭐ the repository if you found it useful!
 Open to contributions and suggestions.
 
-🌈 Happy Summarizing! 🚀
+###🌈 Happy Summarizing! 🚀
 ```bash
 
 👉 **Optional Tip:**  
