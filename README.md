@@ -49,7 +49,7 @@ https://www.bbc.com/news/technology-66799605
 
 🎨 Demo Preview
 App Screenshot
-![App Screenshot](https://github.com/YOUR_USERNAME/article-summarizer/blob/main/article_summarizer.png)
+![App Screenshot](https://github.com/safwankkmohammed/Article-Summarizer/blob/main/article_summarizer.png)
 
 
 📚 Project Structure
