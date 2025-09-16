@@ -45,7 +45,7 @@ streamlit run app.py
 
 🌐 Sample Article URL to Test
 You can try the app with this article link:
-https://www.bbc.com/news/technology-66799605
+https://opensource.com/resources/raspberry-pi?utm_source=chatgpt.com
 
 🎨 Demo Preview
 App Screenshot
