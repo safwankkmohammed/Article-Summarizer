@@ -53,6 +53,7 @@ App Screenshot
 
 
 📚 Project Structure
+```bash
 article-summarizer/
 │
 ├── app.py               # Main Streamlit application
