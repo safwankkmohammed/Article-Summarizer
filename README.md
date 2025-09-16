@@ -51,6 +51,15 @@ https://www.bbc.com/news/technology-66799605
 App Screenshot
 ![App Screenshot](https://github.com/safwankkmohammed/Article-Summarizer/blob/main/article_summarizer.png)
 
+⚡ Notes
+Summary speed depends on the article length and your machine’s CPU performance.
+Cached summaries are stored using Streamlit’s cache mechanism for faster repeat use.
+
+📢 Thank You!
+Feel free to ⭐ the repository if you found it useful!
+Open to contributions and suggestions.
+
+🌈 Happy Summarizing! 🚀
 
 📚 Project Structure
 ```bash
@@ -61,15 +70,6 @@ article-summarizer/
 ├── README.md            # Project description
 └── .gitignore           # To ignore __pycache__, etc.
 
-###⚡ Notes
-Summary speed depends on the article length and your machine’s CPU performance.
-Cached summaries are stored using Streamlit’s cache mechanism for faster repeat use.
-
-###📢 Thank You!
-Feel free to ⭐ the repository if you found it useful!
-Open to contributions and suggestions.
-
-###🌈 Happy Summarizing! 🚀
 ```bash
 
 👉 **Optional Tip:**  
